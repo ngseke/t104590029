@@ -3,4 +3,7 @@
   "editor.quickSuggestions": {
     "strings": true
   },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
 }
