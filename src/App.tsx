@@ -1,10 +1,10 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Jimihua from './Jimihua'
 
-function App() {
+function App () {
   return (
     <div>
-      <Jimihua></Jimihua>
+      <Jimihua />
     </div>
   )
 }
